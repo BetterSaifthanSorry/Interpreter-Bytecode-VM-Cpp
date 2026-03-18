@@ -16,19 +16,3 @@ This repository currently implements the language up to Control Flow. It success
 * Functions, closures, and callables (Chapter 10)
 * Static variable resolution and binding (Chapter 11)
 * Classes, instances, and inheritance (Chapters 12 & 13)
-
-## Building and Running
-
-```bash
-# Clone the repository
-git clone [https://github.com/yourusername/cpplox.git](https://github.com/yourusername/cpplox.git)
-cd cpplox
-
-# Build the project (assuming standard make or CMake)
-make 
-
-# Start the interactive REPL
-./cpplox
-
-# Execute a Lox script
-./cpplox path/to/script.lox
