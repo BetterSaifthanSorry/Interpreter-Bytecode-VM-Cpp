@@ -1,8 +1,8 @@
 # cpplox 
 
-A C++ port of the tree-walk interpreter from Part II of Robert Nystrom's [*Crafting Interpreters*](https://craftinginterpreters.com/). 
+A C++ port of the tree-walk interpreter from Part I of Robert Nystrom's [*Crafting Interpreters*](https://craftinginterpreters.com/). 
 
-This repository currently implements the language up to **Chapter 9: Control Flow**. It successfully parses and evaluates scripts with lexical scoping, variable assignments, and loops, stopping just short of function declarations and calls.
+This repository currently implements the language up to Control Flow. It successfully parses and evaluates scripts with lexical scoping, variable assignments, and loops, stopping just short of function declarations and calls.
 
 ## Current Features
 
@@ -18,8 +18,6 @@ This repository currently implements the language up to **Chapter 9: Control Flo
 * Classes, instances, and inheritance (Chapters 12 & 13)
 
 ## Building and Running
-
-*(Note: Update this section based on your specific build system).*
 
 ```bash
 # Clone the repository
